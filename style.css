@@ -1,0 +1,60 @@
+a {
+    text-decoration: none;
+}
+
+.nav__link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    font-style: italic;
+}
+
+.title {
+    font-size: 28px;
+    color: #222;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: #7D7987;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.headtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.icon {
+    border-radius: 10px;
+}
+
+.inputline {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.button {
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #222;
+    border-radius: 10px;
+}
+
+.style__body {
+    font-family: sans-serif;
+}
